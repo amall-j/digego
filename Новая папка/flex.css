@@ -1,0 +1,33 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.roboto-text {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+img{
+    width: 100%;
+}
+
+.swiper-slide img {
+    width: 100px; /* Rasmlarni moslashtirish */
+    height: auto;
+}
+
+.main-header{
+    height: 100vh;
+} 
+
+
+.contiener-6xl{
+    /* max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 w-full */
+    max-width: 72rem;
+    margin: 0 auto;
+    padding: 0 1rem;
+
+}
